@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/DeepLearning/MLFlow/mlruns/0/3b10f1727dc54b179161dcbfecad444c/artifacts
+end_time: 1696781918176
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3b10f1727dc54b179161dcbfecad444c
+run_name: casual-loon-174
+run_uuid: 3b10f1727dc54b179161dcbfecad444c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696781913610
+status: 3
+tags: []
+user_id: Lenovo
